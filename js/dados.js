@@ -1,7 +1,7 @@
 let dados = [
     {
         titulo: "Mona Lisa",
-        imagem:"Assets/monalisa.jpg",
+        imagem:"assets/monalisa.jpg",
         descricao: "Um retrato icônico de uma mulher com um sorriso enigmático, famoso por sua técnica de sfumato e o mistério que envolve a identidade da modelo.",
         link: "https://pt.wikipedia.org/wiki/Mona_Lisa",
         tags: "obra mulher mona monalisa"
