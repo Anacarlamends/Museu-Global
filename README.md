@@ -2,7 +2,7 @@
 
 ## O que essa aplicação faz?
 
-A ideia do **Museu Global** é fazer com que você possa conhecer as mais famosas obras já existentes de forma rápida e fácil. Basta digitar o nome da obra ou do autor(a) que você procura e pronto! A aplicação vai te mostrar todas as informações relevantes, como título, descrição e até mesmo um link para saber mais.
+A ideia do **Museu Global** é fazer com que você possa descobrir informações sobre obras de arte famosas. Ao digitar o nome da obra ou do autor, a aplicação fornecerá detalhes relevantes, como título, descrição e links adicionais. O foco é ajudar você a encontrar e recordar informações sobre obras conhecidas.
 
 ## A aplicação funciona de um jeito bem simples:
 
